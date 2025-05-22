@@ -40,7 +40,7 @@ I’m a **Data Scientist** driven by curiosity, creativity, and a passion for so
 * **Summary:** Built a classification model to predict customer credit risk and support data-driven decisions for credit approvals.
 *EDA, Feature Engineering, Data Cleaning, Random Forest, Logistic Regression, Train-Test Split, Model Evaluation (Confusion Matrix, Recall, Accuracy, ROC-AUC), Variable Importance, Bootstrapping, K-Fold Cross Validation*
 
-* 🍟 [**FoodHub Data Analysis**]([https://github.com/xlisouski/Project_DC/tree/main/Spotify_SongRecommendations](https://github.com/xlisouski/Project_DC/tree/main/FoodHub_DataAnalysis))
+* 🍟 [**FoodHub Data Analysis**](https://github.com/xlisouski/Project_DC/tree/main/FoodHub_DataAnalysis)
 * **Summary:** Analyzed customer and restaurant behavior to identify demand trends, popular cuisines, delivery time insights, and rating correlations.
 *Exploratory Data Analysis, Data Visualizations, Business Insights*
 
