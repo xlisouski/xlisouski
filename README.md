@@ -50,7 +50,7 @@ I’m a **Data Scientist** driven by curiosity, creativity, and a passion for so
 
 **Summary:** Analyzed customer and restaurant behavior to identify demand trends, popular cuisines, delivery time insights, and rating correlations.
 
-Exploratory Data Analysis, Data Visualizations, Business Insights*
+*Exploratory Data Analysis, Data Visualizations, Business Insights*
 <br><br/>
 
 ## 📫 Let’s Connect!
