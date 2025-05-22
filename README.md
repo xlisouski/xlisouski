@@ -32,17 +32,26 @@ I’m a **Data Scientist** driven by curiosity, creativity, and a passion for so
 
 ## 📂 Featured Projects
 
-* 🎵 [**Spotify: Behavior-Based Music Recommendation Strategy**](https://github.com/xlisouski/Project_DC/tree/main/Spotify_SongRecommendations)
-* **Summary:** eveloped a personalized song recommendation system based on user segmentation and listening patterns.
+🎵 [**Spotify: Behavior-Based Music Recommendation Strategy**](https://github.com/xlisouski/Project_DC/tree/main/Spotify_SongRecommendations)
+
+**Summary:** eveloped a personalized song recommendation system based on user segmentation and listening patterns.
+  
 *K-Means, Feature Engineering, Content-Based Filtering, Collaborative Filtering, Similarity-Based (Item-Item, User-User, SVD), Popularity-Based Filtering, Hybrid System*
+<br><br/>
 
-* 💳 [**Credit Risk Scoring Model**](https://github.com/xlisouski/Proyectos_DS/blob/main/Desafio_Telecom)
-* **Summary:** Built a classification model to predict customer credit risk and support data-driven decisions for credit approvals.
+💳 [**Credit Risk Scoring Model**](https://github.com/xlisouski/Proyectos_DS/blob/main/Desafio_Telecom)
+
+**Summary:** Built a classification model to predict customer credit risk and support data-driven decisions for credit approvals.
+
 *EDA, Feature Engineering, Data Cleaning, Random Forest, Logistic Regression, Train-Test Split, Model Evaluation (Confusion Matrix, Recall, Accuracy, ROC-AUC), Variable Importance, Bootstrapping, K-Fold Cross Validation*
+<br><br/>
 
-* 🍟 [**FoodHub Data Analysis**](https://github.com/xlisouski/Project_DC/tree/main/FoodHub_DataAnalysis)
-* **Summary:** Analyzed customer and restaurant behavior to identify demand trends, popular cuisines, delivery time insights, and rating correlations.
-*Exploratory Data Analysis, Data Visualizations, Business Insights*
+🍟 [**FoodHub Data Analysis**](https://github.com/xlisouski/Project_DC/tree/main/FoodHub_DataAnalysis)
+
+**Summary:** Analyzed customer and restaurant behavior to identify demand trends, popular cuisines, delivery time insights, and rating correlations.
+
+Exploratory Data Analysis, Data Visualizations, Business Insights*
+<br><br/>
 
 ## 📫 Let’s Connect!
 
