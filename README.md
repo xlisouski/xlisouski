@@ -25,8 +25,8 @@ I’m a **Data Scientist** driven by curiosity, creativity, and a passion for so
 * **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, Surprise, NLTK, SciPy, PySpark.
 * **Machine Learning:** Linear and Logistic Regression, XGBoost,Random Forest, Decision Trees, Clustering, PCA,Recommendation Systems.
 * **ML Engineering:** Custom pipelines & ETL processes, feature engineering functions to quickly test variable predictive power.
-* **Deployment:** APIs (FastAPI), batch processes (DAGs, SQL pipelines)
-* **Data Visualization:** Matplotlib, Seaborn, Plotly
+* **Deployment:** APIs (FastAPI), batch processes (DAGs, SQL pipelines).
+* **Data Visualization:** Matplotlib, Seaborn, Plotly.
 * **Tools:** Jupyter Notebooks, Google Colab, GitHub, Markdown, Shiny, Looker, Visual Studio Code.
 * **Collaboration:**: Version control (Git), Agile methodologies, cross-functional teamwork.
 
@@ -34,7 +34,7 @@ I’m a **Data Scientist** driven by curiosity, creativity, and a passion for so
 
 🎵 [**Spotify: Behavior-Based Music Recommendation Strategy**](https://github.com/xlisouski/Project_DC/tree/main/Spotify_SongRecommendations)
 
-**Summary:** eveloped a personalized song recommendation system based on user segmentation and listening patterns.
+**Summary:** Developed a personalized song recommendation system based on user segmentation and listening patterns.
   
 *K-Means, Feature Engineering, Content-Based Filtering, Collaborative Filtering, Similarity-Based (Item-Item, User-User, SVD), Popularity-Based Filtering, Hybrid System*
 <br><br/>
