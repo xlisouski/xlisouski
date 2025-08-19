@@ -39,7 +39,7 @@ I’m a **Data Scientist** driven by curiosity, creativity, and a passion for so
 *K-Means, Feature Engineering, Content-Based Filtering, Collaborative Filtering, Similarity-Based (Item-Item, User-User, SVD), Popularity-Based Filtering, Hybrid System*
 <br><br/>
 
-💳 [**Credit Risk Scoring Model**](https://github.com/xlisouski/Proyectos_DS/blob/main/Desafio_Telecom)
+💳 [**Credit Risk Scoring Model**](https://github.com/xlisouski/Project_DC/tree/main/Risk_Score)
 
 **Summary:** Built a classification model to predict customer credit risk and support data-driven decisions for credit approvals.
 
